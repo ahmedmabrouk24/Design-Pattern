@@ -1,4 +1,3 @@
-package mypackage;
 
 public class FamilyEngine implements Engine{
 

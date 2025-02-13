@@ -1,4 +1,3 @@
-package mypackage;
 
 public class SportsTires implements Tires {
 

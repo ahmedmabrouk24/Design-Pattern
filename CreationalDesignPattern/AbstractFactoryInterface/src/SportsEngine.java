@@ -1,4 +1,3 @@
-package mypackage;
 
 public class SportsEngine implements Engine{
 
