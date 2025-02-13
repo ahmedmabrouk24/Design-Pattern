@@ -3,6 +3,7 @@ public class Main {
         // بنبني السيارة باستخدام builder:
         Car myCar = new Car.CarBuilder()
                         .setEngine("V8")
+                        .setColor("Red")
                         .setSunroof(true)
                         .build();
 
