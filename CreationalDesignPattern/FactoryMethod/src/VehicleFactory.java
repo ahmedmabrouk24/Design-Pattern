@@ -8,9 +8,7 @@ public class VehicleFactory {
             return new Car();
         } else if (vehicleType.equalsIgnoreCase("TRUCK")) {
             return new Truck();
-        } else if (vehicleType.equalsIgnoreCase("MOTORCYCLE")) {
-            return new Motorcycle();
-        }
+        } 
         return null;
     }
 }

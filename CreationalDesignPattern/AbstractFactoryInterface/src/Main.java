@@ -4,7 +4,7 @@ public class Main {
         Engine sportsEngine = sportsFactory.createEngine();
         Tires sportsTires = sportsFactory.createTires();
         
-        sportsEngine.start(); // git soutput -> Starting sports engine with high speed!
+        sportsEngine.start(); // output -> Starting sports engine with high speed!
         sportsTires.roll(); // output -> Sports tires are rolling fast!
         
         System.out.println();
